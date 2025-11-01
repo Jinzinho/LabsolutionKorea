@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/q/:d*", "destination": "/coupon?d=:d" }
+  ]
+}
